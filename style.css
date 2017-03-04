@@ -1,0 +1,20 @@
+/* Put your css in here */
+html {
+  
+  background-color:grey;
+}
+table { 
+  color: white;
+}
+th {
+  color: white;
+}
+tr {
+  color:white;
+  
+}
+td {
+  color:white;
+  
+}
+/*oops above is wrong, I threw the ngController on the body so its rendering css after it renders the angular scripts but IDC its fine as-is, you get the point. 
